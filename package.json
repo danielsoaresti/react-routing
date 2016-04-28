@@ -1,5 +1,5 @@
 {
-  "name": "react-skeleton",
+  "name": "react-routing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielsoaresti/react-skeleton.git"
+    "url": "git+https://github.com/danielsoaresti/react-routing.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielsoaresti/react-skeleton/issues"
+    "url": "https://github.com/danielsoaresti/react-routing/issues"
   },
-  "homepage": "https://github.com/danielsoaresti/react-skeleton#readme",
+  "homepage": "https://github.com/danielsoaresti/react-routing#readme",
   "dependencies": {
     "babel-preset-react": "^6.5.0",
     "babelify": "^7.2.0",
